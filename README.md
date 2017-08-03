@@ -19,7 +19,7 @@ mvn hpi:run
 
 3. Create a Folder. *New Item -> Freestyle project*
 4. Create a FreeStyle project. *New Item -> Folder* and add the *Build step* called *Tell me if the following plugins are installed or not in the instance*. 
-5. Build the FreeStyle project and you should get the folling Exception``
+5. Build the FreeStyle project and you should get the folling `Exception`
 
 ```
 Started by user anonymous
